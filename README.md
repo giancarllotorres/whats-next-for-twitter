@@ -21,7 +21,7 @@ A "config.ini" file with Twittter Developer account information is available in 
 
 # Library Requirements:
 With PIP, the following libraries would need to be installed:
-- TextBlob-
+- TextBlob
 - WordCloud
 - pandas
 - numpy
