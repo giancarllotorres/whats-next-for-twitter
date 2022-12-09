@@ -1,5 +1,6 @@
 # Whats Next for Twitter? 
 An overview of the audience's expectations and the forthcoming steps for Twitter's direction change using "Sentiment Data Analysis."
+Medium Article: https://medium.com/@giancarllo.torres/whats-next-for-elon-musk-s-twitter-e7cc5cd84546
 
 # About the project
 After a protracted legal battle and months of uncertainty, Elon Musk has taken control of Twitter. The question now is what Tesla CEO Elon Musk will do with the social media platform. This project is a Tweet "Sentiment Analysis" task to reveal, in certain way, what the community's overall sensation is regarding Musk's takeover.
