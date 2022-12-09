@@ -1,0 +1,16 @@
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.1/en_core_web_sm-3.4.1-py3-none-any.whl
+iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
+matplotlib @ file:///C:/b/abs_ae02atcfur/croot/matplotlib-suite_1667356722968/work
+matplotlib-inline @ file:///C:/ci/matplotlib-inline_1661915841596/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1653574844560/work
+numpydoc @ file:///C:/b/abs_cfdd4zxbga/croot/numpydoc_1668085912100/work
+oauthlib==3.2.2
+requests @ file:///C:/ci/requests_1657735342357/work
+requests-file @ file:///Users/ktietz/demo/mc3/conda-bld/requests-file_1629455781986/work
+requests-oauthlib==1.3.1
+requests-toolbelt==0.10.1
+spacy==3.4.3
+spacy-legacy==3.0.10
+spacy-loggers==1.0.3
+textblob==0.17.1
+tweepy==4.12.1
