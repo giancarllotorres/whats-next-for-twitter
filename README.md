@@ -1,5 +1,6 @@
 # Whats Next for Twitter? 
 An overview of the audience's expectations and the forthcoming steps for Twitter's direction change using "Sentiment Data Analysis."
+
 Medium Article: https://medium.com/@giancarllo.torres/whats-next-for-elon-musk-s-twitter-e7cc5cd84546
 
 # About the project
